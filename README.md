@@ -1,7 +1,7 @@
 <div align = "center">
   <h1> Hi there, I'm Gabriel Nava!</h1>
 
-<p>A Control and Automation Engineer and Dev, Looking foward for a Computer Science degree! <p>
+<p> A Software Engineer with a wealth of experience! <p>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnavadev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
