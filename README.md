@@ -18,7 +18,7 @@
 I'm a passionate Software Engineer with expertise in building scalable, AI-driven solutions and client-facing applications. Currently pursuing my BS in Computer Science at Oregon State University while bringing real-world experience from developing high-performance banking systems and machine learning pipelines.
 
 - 🔭 **Currently working on**: 3D web applications using Three.js and React Three Fiber
-- 🎓 **Education**: BS Computer Science at Oregon State University (2023-Present)
+- 🎓 **Education**: BS Computer Science at Oregon State University (2023-Present), BS Control and Automation Engineering at Universide Assis Gurgacz (2017-2022).
 - 💡 **Focus areas**: Full-stack development, AI/ML, cloud architecture, and performance optimization
 - 📈 **Impact**: Reduced system processing times by 20%, improved throughput by 51k transactions/second, achieved 98% code coverage
 
