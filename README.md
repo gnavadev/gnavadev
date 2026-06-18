@@ -54,9 +54,3 @@ Backend systems that hold up in production — fault-tolerant APIs, containerize
 </div>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=gnavadev&color=blueviolet&style=flat-square)
-
-</div>
